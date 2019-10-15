@@ -1,3 +1,1 @@
-# friendly-engine
-test of edit branch
-test 2
+clear all then "commit changes" to ClearBranch
